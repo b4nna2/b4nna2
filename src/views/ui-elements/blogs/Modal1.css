@@ -1,0 +1,49 @@
+.Modal{
+    background-color: white;
+    width:40%;
+    height:75%;
+    margin-left:40%;
+    margin-top:8%;
+    border-radius: 5px;
+    color:black;
+    overflow:auto;
+    
+}
+.img1{
+    height:60%;
+    width:100%;
+}
+.buttonnew{
+    border: 1px solid grey;
+    border-radius: 20px;
+    background-color: lightgrey;
+    color:white;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    margin-top:7px;
+    margin-left:7px;
+}
+.source{
+    margin-right: 5px;
+    font-size:20px;
+}
+.heading1{
+    color:black;
+    font-size: bold;
+    margin-top:5px;
+
+   
+}
+.heading2{
+    color:black;
+   
+}
+.line{
+    width: 20%;
+    border-top:4px solid darkgoldenrod;
+    margin-left:7px;
+   
+    
+}
